@@ -1,0 +1,1 @@
+This web-based application will allow one to register themselves from the login page and once you have registered it will allow you to easily log in, update and delete your information from the database.
